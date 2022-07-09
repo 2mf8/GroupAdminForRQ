@@ -15,7 +15,7 @@
     "long": "^4.0.0",
     "lru-cache": "^6.0.0",
     "protobufjs": "^6.10.2",
-    "tspbbot-for-rq": "^2.0.1",
+    "tspbbot-for-rq": "^2.0.2",
     "ws": "^7.5.6"
   },
   "devDependencies": {
