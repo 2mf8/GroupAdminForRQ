@@ -1,6 +1,6 @@
 # 使用说明
 
-基于 [tspbbot-for-rq](https://github.com/protobufbot/js-pbbot) 的GroupAdminForRQ
+基于 [tspbbot-for-rq](https://github.com/2mf8/tspbbot-for-rq) 的GroupAdminForRQ
 
 ## 指令说明
 
